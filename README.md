@@ -1,4 +1,6 @@
 ### Hi there, I'm Romax Rajeev <img src="https://res.cloudinary.com/dxzx2bxch/image/upload/v1603305558/github/wave_smz3ly.gif" width="30px"/>  
+I work as a Software Engineer at Persistent Systems.  
+
 I'm an Computer Engineering undergraduate at Pillai College of Engineering (Mumbai University).   
   
 I'm also a UI/UX Designer and enjoy making full-stack projects with Flask.  
